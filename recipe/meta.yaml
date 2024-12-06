@@ -26,7 +26,7 @@ requirements:
     - numpy
     - h5py
     - filelock
-    - cadet
+    - cadet >=5.0.2
 
 test:
   imports:
